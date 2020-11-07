@@ -79,6 +79,7 @@ let sfx;
 
 //load in assets before loading the canvas so the program doesn't lag tf out
 function preload() {
+  print("Butthole!")
   soundFormats('wav', 'mp3', 'ogg');
   //here's all the sfx we can use! you can even see the secret 17th sound... >:3c
   sfx = [loadSound('ass/puff.mp3'), loadSound('ass/BUP.mp3'), loadSound('ass/HEY.mp3'), loadSound('ass/vsas.mp3'), loadSound('ass/mikal.mp3'), loadSound('ass/jon.mp3'), loadSound('ass/hank.mp3'), loadSound('ass/tau.mp3'), loadSound('ass/euler.mp3'), loadSound('ass/bum.mp3'), loadSound('ass/work.mp3'), loadSound('ass/bl.mp3'), loadSound('ass/net.mp3'), loadSound('ass/memes.mp3'), loadSound('ass/game.mp3'), loadSound('ass/theory.mp3'), loadSound('ass/sega.mp3')];
