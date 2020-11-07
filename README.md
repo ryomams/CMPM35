@@ -9,7 +9,7 @@ That's uhhh Pretty much it~
 
 ### WIP: D3 Data Visualization 📊
 <p> Represent [your own dataset](https://docs.google.com/spreadsheets/d/1OU8i2nxCEv9YmgxrXgKa-fqxgbxOR30_ma1_QZ3dPo8/edit?usp=sharing) in a creative way using D3.js.</p>
-
+<br>
 🍎 Assignments
 ---
 ### (11/10/2020): D3.js + SVG
