@@ -10,7 +10,6 @@ That's uhhh Pretty much it~
 
 ### WIP: D3 Data Visualization 📊
 <p> Represent your own dataset in a creative way using D3.js.</p>
-<br>
 
 🍎 Assignments
 ---
