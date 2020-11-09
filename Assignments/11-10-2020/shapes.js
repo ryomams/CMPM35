@@ -129,4 +129,41 @@ function init() {
     .attr("x2", 320)
     .attr("y2", 500);
 
+  const path2 = svg.append("path")
+    .attr("fill", "none")
+    .attr("stroke", "black")
+    .attr("stroke-width", "4")
+    .attr("d", "M 60 295 Q 80 288 100 295");
+
+  const polyline2 = svg.append("polyline")
+    .attr("fill", "none")
+    .attr("stroke", "black")
+    .attr("stroke-width", "4")
+    .attr("points", "540 295  560 288  580 295");
+
+  const polyline3 = svg.append("polyline")
+    .attr("fill", "none")
+    .attr("stroke", "black")
+    .attr("stroke-width", "4")
+    .attr("points", "520 260  530 265  540 260")
+
+  const polyline4 = svg.append("polyline")
+    .attr("fill", "none")
+    .attr("stroke", "black")
+    .attr("stroke-width", "4")
+    .attr("points", "560 260  570 265  580 260")
+
+  const eye = svg.append("circle")
+    .attr("fill", "black")
+    .attr("cx", 60)
+    .attr("cy", 270)
+    .attr("r", 3);
+   
+  const eye2 = svg.append("circle")
+    .attr("fill", "black")
+    .attr("cx", 110)
+    .attr("cy", 270)
+    .attr("r", 3);
+
+
 }
