@@ -1,6 +1,5 @@
 # CMPM35 Projects
-My projects and assignments for UCSC's CMPM35 in one lil repo for you! <br>
-That's uhhh Pretty much it~
+All my projects and assignments for UCSC's CMPM35 in one lil repo for you! <br>
 <br>
 
 💪 Projects
