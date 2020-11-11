@@ -31,7 +31,7 @@ const xText = svg.append("text")
   .attr("fill", "black")
   .text("Significance Level");
 
- const yText = svg.append("text")
+const yText = svg.append("text")
   //.attr("x", 300)
   //.attr("y", 300)
   .attr("text-anchor","middle")

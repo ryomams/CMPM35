@@ -145,13 +145,13 @@ function init() {
     .attr("fill", "none")
     .attr("stroke", "black")
     .attr("stroke-width", "4")
-    .attr("points", "520 260  530 265  540 260")
+    .attr("points", "520 260  530 265  540 260");
 
   const polyline4 = svg.append("polyline")
     .attr("fill", "none")
     .attr("stroke", "black")
     .attr("stroke-width", "4")
-    .attr("points", "560 260  570 265  580 260")
+    .attr("points", "560 260  570 265  580 260");
 
   const eye = svg.append("circle")
     .attr("fill", "black")
