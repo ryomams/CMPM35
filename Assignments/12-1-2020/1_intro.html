@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    <title>intro</title>
+    
+	</head>
+	<body>
+    
+   <script type="module">
+
+      import * as THREE from './js/build/three.module.js'
+      import { OrbitControls } from './js/examples/jsm/controls/OrbitControls.js' 
+
+      //first create a "world" or "scene" to hold the data you will render to the screen (where the data is 3D geometry)      
+      const scene = new THREE.Scene();
+      
+      //define a camera to look into the 3D world
+			const camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
+
+      //we are going to place our 3D meshes at the center of the world's coordinate system, 
+      //  so we move the camera so that it can see them 
+      camera.position.z = 5;
+
+      //tell Three.js to render our geometry using the GPU
+      const renderer = new THREE.WebGLRenderer();
+    
+      //make the canvas take up the entire browser window
+			renderer.setSize( window.innerWidth, window.innerHeight );
+			document.body.appendChild( renderer.domElement );
+
+
+      //a 3D object consists of:
+        // some POINTS (called "geometry") that define the object
+        // a MATERIAL that defines how the faces of the geometry are rendered
+			const geometry = new THREE.BoxGeometry(2, 2, 2); //w, h, d
+      const material = new THREE.MeshBasicMaterial( { color: 0xff0000 } );
+      
+      material.wireframe = false; //makes it easier to see how the mesh is made up of TRIANGLES
+
+      //you put these together by making a MESH
+      const cube = new THREE.Mesh( geometry, material );
+      
+      //and you then add the mesh to the scene, so that it gets rendered (in the animate function)
+			scene.add( cube );
+      
+
+      function animate() {
+        //synchronize the animation with the refresh rate of your monitor, usual 60 fps
+				requestAnimationFrame( animate ); 
+
+        //rotate the cube by a little bit each frame
+        //cube.rotation.x += 0.01;
+        //cube.rotation.y += 0.01;
+        
+        //tells the GPU to render your meshes to the canvas fromm the perspective of the camera
+				renderer.render( scene, camera );
+			}
+
+      
+      animate();
+
+      
+      
+      
+		</script>
+	</body>
+</html>
