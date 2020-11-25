@@ -1,6 +1,5 @@
 # CMPM35 Projects
-All my projects and assignments for UCSC's CMPM35 in one lil repo for you! <br>
-
+All my projects and assignments for UCSC's CMPM35 in one lil repo for you!
 
 💪 Projects
 ---
@@ -10,7 +9,7 @@ All my projects and assignments for UCSC's CMPM35 in one lil repo for you! <br>
 - [Live Demo](https://ryoma.ms/CMPM35/FloomieTap/index.html)
 
 ### FloomieBloomie
-<p> Typically, mood tracking apps use traditional charts (ie. bar graphs, line graphs) to visualize how one's mood might fluctuate over time. Unfortunately, the use of number-oriented graphs inherently imply a new high or low score to be reached with one's mood. Made in collaboration with Nishant Suria, FloomieBloomie provides a unique visualization of your day.</p>
+<p> Typically, mood tracking apps use traditional charts (ie. bar graphs, line graphs) to visualize how one's mood might fluctuate over time. Unfortunately, the use of number-oriented graphs inherently imply a new high or low score to be reached with one's mood. Made in collaboration with Nishant Suria, FloomieBloomie provides a unique visualization of your day using D3.js.</p>
 
 - [Live Demo](https://ryoma.ms/FloomieBloomie)
 - [Repository](https://github.com/ryomams/FloomieBloomie)
