@@ -7,12 +7,12 @@ All my projects and assignments for UCSC's CMPM35 in one lil repo for you! <br>
 ### FloomieTap
 <p> Made in collaboration with my friend, Nishant Suria, FloomieTap is a soundboard inspired by https://patatap.com/ and https://aidn.jp/mikutap/ made using the P5.js library. It uses samples from various youtube videos we like, acompanied with a looping soundtrack made in Logic Pro.</p>
 
-- [Live Demo](https://ryoma.ms/CMPM35/FloomieTap/index.html/)
+- [Live Demo](https://ryoma.ms/CMPM35/FloomieTap/index.html)
 
 ### FloomieBloomie
 <p> Typically, mood tracking apps use traditional charts (ie. bar graphs, line graphs) to visualize how one's mood might fluctuate over time. Unfortunately, the use of number-oriented graphs inherently imply a new high or low score to be reached with one's mood. Made in collaboration with Nishant Suria, FloomieBloomie provides a unique visualization of your day.</p>
 
-- [Live Demo](https://ryoma.ms/FloomieBloomie/)
+- [Live Demo](https://ryoma.ms/FloomieBloomie)
 - [Repository](https://github.com/ryomams/FloomieBloomie)
 
 🍎 Assignments
