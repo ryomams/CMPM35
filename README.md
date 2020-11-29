@@ -26,3 +26,6 @@ Made in collaboration with my friend, Nishant Suria, FloomieTap is a soundboard 
 
 ### (12/1/2020): Three.js Introduction
 <p>Turn in a link to a GitHub repo that modifies either the "shapes" or "lights" example from class, and include a screenshot of your project in the README for the repo.</p>
+
+- ["lights" Live Demo](https://ryoma.ms/CMPM35/Assignments/12-1-2020/3_lights.html)
+- [Repository](https://github.com/ryomams/CMPM35/tree/main/Assignments/12-1-2020)
