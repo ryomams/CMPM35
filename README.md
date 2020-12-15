@@ -17,7 +17,7 @@ Made in collaboration with my friend, Nishant Suria, FloomieTap is a soundboard 
 - [Repository](https://github.com/ryomams/FloomieBloomie)
 
 ### FloomieSpoopie
-<p> A small platformer made using Three.js in collaboration with Nishant Suria. You can wall climb! (Which was originally a bug but we turned it into a feature...) It was designed to be a new installment in the [This Game is Not](https://itch.io/c/1305039/this-game-is-not) series.</p>
+<p> A small platformer made using Three.js in collaboration with Nishant Suria. You can wall climb! (Which was originally a bug but we turned it into a feature...) It was designed to be a new installment in the <a href="https://itch.io/c/1305039/this-game-is-not>This Game is Not</a> series.</p>
 
 - [Live Demo](https://ryoma.ms/FloomieSpoopie)
 - [Repository](https://github.com/ryomams/FloomieSpoopie)
