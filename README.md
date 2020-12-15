@@ -16,6 +16,13 @@ Made in collaboration with my friend, Nishant Suria, FloomieTap is a soundboard 
 - [Live Demo](https://ryoma.ms/FloomieBloomie)
 - [Repository](https://github.com/ryomams/FloomieBloomie)
 
+### FloomieSpoopie
+<p> A small platformer made using Three.js in collaboration with Nishant Suria. You can wall climb! (Which was originally a bug but we turned it into a feature...)</p>
+
+- [Live Demo](https://ryoma.ms/FloomieSpoopie)
+- [Repository](https://github.com/ryomams/FloomieSpoopie)
+- [itch.io Link](https://ryomams.itch.io/school-project)
+
 🍎 Assignments
 ---
 ### (11/10/2020): D3.js + SVG
