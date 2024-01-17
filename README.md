@@ -35,4 +35,4 @@ Made in collaboration with my friend, Nishant Suria, FloomieTap is a soundboard 
 <p>Turn in a link to a GitHub repo that modifies either the "shapes" or "lights" example from class, and include a screenshot of your project in the README for the repo.</p>
 
 - [Assignment](https://ryomams.github.io/CMPM35/Assignments/12-1-2020/)
-- ["lights" Live Demo](https://ryoma.ms/CMPM35/Assignments/12-1-2020/3_lights.html)
+- ["lights" Live Demo](https://ryomams.github.io/CMPM35/Assignments/12-1-2020/3_lights.html)
