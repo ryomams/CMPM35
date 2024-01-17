@@ -6,7 +6,7 @@ All my projects and assignments for UCSC's CMPM35 in one lil repo for you!
 💪 Projects
 ---
 ### FloomieTap
-Made in collaboration with my friend, Nishant Suria, FloomieTap is a soundboard inspired by <https://patatap.com/> and <https://aidn.jp/mikutap/> made using the P5.js library. It uses samples from various youtube videos we like, acompanied with a looping soundtrack made in Logic Pro.
+Made in collaboration with my friend, Nishant Suria, FloomieTap is a soundboard inspired by <https://patatap.com/> and <https://aidn.jp/mikutap/> made using the P5.js library. It uses samples from various youtube videos we like, accompanied with a looping soundtrack made in Logic Pro.
 
 - [Live Demo](https://ryomams.github.io/CMPM35/FloomieTap/index.html)
 
