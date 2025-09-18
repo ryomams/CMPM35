@@ -29,7 +29,7 @@ Made in collaboration with my friend, Nishant Suria, FloomieTap is a soundboard 
 <p> Use D3.js to make a picture using basic SVG commands. (Include a bitmap image of the SVG output.) Then, modify the code in a provided example to display your own dataset. </p>
 
 - [SVG Live Demo](https://ryomams.github.io/CMPM35/Assignments/11-10-2020/shapes.html) 
-- [D3 Dataset Live Demo](https://ryoma.ms/CMPM35/Assignments/11-10-2020/index.html)
+- [D3 Dataset Live Demo](https://ryomams.github.io/CMPM35/Assignments/11-10-2020/index.html)
 
 ### (12/1/2020): Three.js Introduction
 <p>Turn in a link to a GitHub repo that modifies either the "shapes" or "lights" example from class, and include a screenshot of your project in the README for the repo.</p>
